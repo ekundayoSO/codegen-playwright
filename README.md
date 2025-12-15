@@ -2,11 +2,11 @@
 
 This repository contains **end-to-end (E2E) tests** written using **pytest-playwright** for the Demo Web Shop application, with a focus on shopping cart functionality.
 
-🔗 **Application under test:** [https://demowebshop.tricentis.com/cart](https://demowebshop.tricentis.com)
+**Application under test:** [https://demowebshop.tricentis.com/cart](https://demowebshop.tricentis.com)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The purpose of this project is to validate key user flows in the Demo Web Shop using 
 **Python-based browser automation**. The tests simulate real user interactions to 
@@ -17,7 +17,7 @@ for browser automation.
 
 ---
 
-## 🧪 Test Scope
+## Test Scope
 
 The automated tests cover (but are not limited to):
 
@@ -31,7 +31,7 @@ The automated tests cover (but are not limited to):
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python** – Programming language
 * **pytest** – Test framework
@@ -40,14 +40,14 @@ The automated tests cover (but are not limited to):
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 Ensure the following are installed on your system:
 
 * **Python 3.9+**
 * **pip** (Python package manager)
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
 
@@ -78,7 +78,7 @@ playwright install
 
 ---
 
-## ▶️ Running Tests
+## Running Tests
 
 Run all tests in headless mode:
 
@@ -108,7 +108,7 @@ pytest tests/test_cart.py
 
 ---
 
-## 📊 Test Reports
+## Test Reports
 
 Pytest output is shown in the terminal by default.
 
@@ -120,7 +120,7 @@ pytest --html=report.html
 
 ---
 
-## 🌐 Supported Browsers
+## Supported Browsers
 
 Using pytest-playwright, tests can run on:
 
@@ -132,7 +132,7 @@ Browser selection is controlled via pytest command-line options.
 
 ---
 
-## 🧹 Best Practices Followed
+## Best Practices Followed
 
 * Clear and descriptive test names
 * Reusable pytest fixtures
@@ -142,19 +142,19 @@ Browser selection is controlled via pytest command-line options.
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 * The Demo Web Shop is a **public demo application**, so product data or cart behavior may reset.
 * Tests should not depend on persistent cart state between runs.
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for **learning, practice, and demonstration purposes only**.
 
 ---
 
-## 🙌 Author
+## Author
 
 Created as a **pytest-playwright E2E testing practice project**.
