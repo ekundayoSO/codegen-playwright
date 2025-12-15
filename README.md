@@ -52,8 +52,8 @@ Ensure the following are installed on your system:
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/ekundayoSO/codegen-playwright.git>
+cd codegen-playwright>
 ```
 
 2. Create and activate a virtual environment (recommended):
