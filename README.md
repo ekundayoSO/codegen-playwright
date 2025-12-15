@@ -40,20 +40,6 @@ The automated tests cover (but are not limited to):
 
 ---
 
-## 📂 Project Structure
-
-```bash
-.
-├── tests/
-│   └── test_cart.py        # Cart-related E2E tests
-├── conftest.py             # Pytest fixtures (browser, page, setup)
-├── pytest.ini              # Pytest configuration (optional)
-├── requirements.txt        # Python dependencies
-└── README.md
-```
-
----
-
 ## ⚙️ Prerequisites
 
 Ensure the following are installed on your system:
