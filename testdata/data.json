@@ -1,0 +1,41 @@
+
+
+[
+  {
+    "gender": "female",
+    "first_name": "Jane",
+    "last_name": "Roose",
+    "password": "abc123",
+    "confirm_password": "abc123"
+  },
+  {
+    "gender": "male",
+    "first_name": "David",
+    "last_name": "Ross",
+    "password": "abc@123",
+    "confirm_password": "abc@123"
+  },
+  {
+    "gender": "male",
+    "first_name": "Habiba",
+    "last_name": "Rid",
+    "password": "abc@123",
+    "confirm_password": "abc@123"
+  },
+  {
+    "gender": "female",
+    "first_name": "Gold",
+    "last_name": "Felix",
+    "password": "abc@123",
+    "confirm_password": "abc@123"
+  },
+  {
+    "gender": "female",
+    "first_name": "Lizzy",
+    "last_name": "Benson",
+    "password": "abc@123",
+    "confirm_password": "abc@123"
+  }
+]
+
+
